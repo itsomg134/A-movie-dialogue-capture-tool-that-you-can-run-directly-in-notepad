@@ -151,3 +151,17 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 - Movie quotes belong to their respective copyright holders – used here for demonstration purposes only
 - Built with React and lots of ☕
 
+
+## Contact
+
+Om Gedam
+
+GitHub: @itsomg134
+
+Email: omgedam123098@gmail.com
+
+Twitter (X): @omgedam
+
+LinkedIn: Om Gedam
+
+Portfolio: https://ogworks.lovable.app
