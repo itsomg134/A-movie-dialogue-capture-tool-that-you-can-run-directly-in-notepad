@@ -1,0 +1,1 @@
+# A-movie-dialogue-capture-tool-that-you-can-run-directly-in-notepad
